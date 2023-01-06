@@ -1,0 +1,17 @@
+.list{
+    display:flex;
+    background-color: rgb(224, 0, 0);
+    font-weight: 800px;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: calc();
+    margin-top: 50;
+    margin-bottom: 100em;
+    margin-right: 15inch;
+    text-align: center;
+    text-transform: capitalize;
+    padding: 20px;
+    word-spacing: 100;
+    
+
+
+}
